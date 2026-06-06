@@ -1,13 +1,30 @@
+**Scholarship:**
 
-- Outstanding Graduate Award (CUMT), 2025.
+	First Prize Scholarship of RCEES, Jan. 2026.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+	First Prize Scholarship of RCEES, Jan. 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+	Second Prize Scholarship of RCEES, Jan. 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+	Second Prize Scholarship of HBUT, Oct. 2021.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+	First Prize Scholarship of HBUT, Oct. 2020.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+	First Prize Scholarship of HBUT, Oct. 2019.
+
+
+
+**Others:**
+
+	Merit Student of UCAS, Jun. 2026.
+
+	Excellent Student Leader of UCAS, May. 2025.
+
+	Outstanding Graduate of HBUT, Jun. 2022.
+
+	Merit Student of HBUT, May. 2021.
+
+	Excellent Student Leader of HBUT, May. 2020.
+
+
 
