@@ -1,4 +1,3 @@
-[![XuanmingHUANG-Andy](https://img.shields.io/badge/XuanmingHUANG-Andy-github-blue?logo=github)](https://github.com/XuanmingHUANG-Andy)
 
 #### Email  
 
