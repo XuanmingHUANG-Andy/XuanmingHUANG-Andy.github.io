@@ -1,15 +1,17 @@
-#### Submitted
+#### Submitted  
+
+
 
 #### Published
 
-•	<strong>Huang, X.<strong>, Cai, M., Yan, L., Xiao, R., Mu, Y., & Ren, Y*. (2025). Assessment of air pollutant O3 pulmonary exposure using a bronchus-on-chip model coupling with atmospheric simulation chamber. <strong>Journal of Hazardous Materials<strong>, 486, 137106. [[Paper]](https://doi.org/10.1016/j.jhazmat.2025.137106)
+-  **Huang, X.**, Cai, M., Yan, L., Xiao, R., Mu, Y., & Ren, Y*. (2025). Assessment of air pollutant O3 pulmonary exposure using a bronchus-on-chip model coupling with atmospheric simulation chamber.**Journal of Hazardous Materials**, 486, 137106. [[Paper]](https://doi.org/10.1016/j.jhazmat.2025.137106)  
 
-•	Ren, Y., <strong>Huang, X.<strong>, Zhang, C., & Mu, Y. (2025-12-05). CN115963287B.
+-  Ren, Y., **Huang, X.**, Zhang, C., & Mu, Y. (2025-12-05). CN115963287B. 
 
-•	Ren, Y., <strong>Huang, X.<strong>, Zhang, C., & Mu, Y. (2025-02-14). CN115475590B.
+-  Ren, Y., **Huang, X.**, Zhang, C., & Mu, Y. (2025-02-14). CN115475590B. 
 
-•	Shi, Z., Pi, K., <strong>Huang, X.<strong>, Shi, Y., Chen, Z., Tang, R., Hu, Z., Gerson, A. R., & Liu, D. (2020). Enhanced dewater efficiency for river sediment by top-to-bottom water transmitting channels with different materials. Environmental Science and Pollution Research International, 27(23), 29228–29238. [[Paper]](https://doi.org/10.1007/s11356-020-09250-w)
+-  Shi, Z., Pi, K., **Huang, X.**, Shi, Y., Chen, Z., Tang, R., Hu, Z., Gerson, A. R., & Liu, D. (2020). Enhanced dewater efficiency for river sediment by top-to-bottom water transmitting channels with different materials. **Environmental Science and Pollution Research International**, 27(23), 29228–29238. [[Paper]](https://doi.org/10.1007/s11356-020-09250-w)
 
-•	<strong>Huang, X.<strong> (2021-11-05). CN214622636U.
+-  **Huang, X.** (2021-11-05). CN214622636U.
 
 

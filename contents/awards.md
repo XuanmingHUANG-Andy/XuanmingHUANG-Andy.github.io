@@ -1,4 +1,6 @@
-**Scholarship:**
+\#### Scholarship
+
+
 
 	First Prize Scholarship of RCEES, Jan. 2026.
 
@@ -14,7 +16,11 @@
 
 
 
-**Others:**
+
+
+\####  Others
+
+
 
 	Merit Student of UCAS, Jun. 2026.
 
@@ -25,6 +31,4 @@
 	Merit Student of HBUT, May. 2021.
 
 	Excellent Student Leader of HBUT, May. 2020.
-
-
 
