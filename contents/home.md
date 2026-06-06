@@ -16,7 +16,8 @@ Honours Bachelor of Environmental Engineering (Sep. 2018 - Jun. 2022)
 
 #### Research Experiments  
 
-**-  Reaction Kinetics of NO2 with O3 at Different Temperatures **  (Feb. 2024 – Present) <br>
+
+**-  Reaction Kinetics of NO2 with O3 at Different Temperatures**  (Feb. 2024 – Present) <br>
 **-  Comprehensive Intercomparison of Nitrogen Oxide Instruments**  (Oct. 2023 – Dec. 2023) <br>
 **-  Ozone-Induced Pulmonary Toxicity Using a Bronchus-on-Chip Model**  (Feb. 2023 – Sep. 2023) <br>
 **-  Development of Top-to-Bottom Channel-Enhanced Dewatering for River Sediment**  (Dec. 2018 – Jun. 2022)   
